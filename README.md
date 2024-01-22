@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**ZiadAkGit/ziadakgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate QA & Automation engineer on a journey to becoming a versatile developer. My expertise includes Python, Java, and JavaScript, and I love tackling challenges in the tech universe.
 
-Here are some ideas to get you started:
+## Skills
+- 💻 Software Development
+- 🤖 QA & Automation
+- 🐍 Python
+- 🌐 JavaScript
+- ☕ Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+1. **Pawfect-Match**
+   - A website using a futuristic algorithm with AI to find the best dog for you based on a quiz.
+   
+2. **Java Discord Bot**
+   - A Discord bot serving as a personal assistant, featuring Selenium/web scraping and futuristic functionalities.
+   
+3. **HexClock**
+   - An Android app that creatively displays the time.
+
+## Approach
+As a strong team player, I thrive on collaboration and open conversations to drive innovation. I embrace my multipotentiality, bringing fresh perspectives and creative solutions to every project.
+
+## Let's Connect! 🚀
+Looking for a versatile problem-solver? Let's connect! Together, we can brainstorm and craft something extraordinary. I'm excited to engage with like-minded individuals in this creative sector. Reach out because the perfect time to connect is always now! 🔮
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://il.linkedin.com/in/ziadabukhadra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](http://www.ziadak.com)
