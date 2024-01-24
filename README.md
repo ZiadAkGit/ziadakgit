@@ -12,7 +12,7 @@ I'm Ziad, a passionate QA & Automation engineer evolving into a versatile develo
 
 ## 🌟 Featured Projects
 
-### 1. **Pawfect-Match 🐾**
+### 1. **Pawrtnership 🐾**
    - Unleash the future of pet adoption! This website, powered by a cutting-edge AI algorithm, matches you with your perfect furry companion based on a fun quiz.
 
 ### 2. **Java Discord Bot 🤖**
