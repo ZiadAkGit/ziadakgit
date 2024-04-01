@@ -1,11 +1,10 @@
 # Hi there! 👋 Welcome to My Code Sanctuary 🚀
 
-I'm Ziad, a passionate QA & Automation engineer evolving into a versatile developer. With expertise in Python, Java, and JavaScript, I embark on exciting challenges in the vast tech universe.
+I'm Ziad, a passionate QA & Automation engineer evolving into a versatile developer. With Python, Java, and JavaScript expertise, I embark on exciting challenges in the vast tech universe.
 
 ## 🚀 Skills & Technologies
 
 - 💻 **Software Development**
-- 🤖 **QA & Automation**
 - 🐍 **Python**
 - ☕ **Java**
 - 🌐 **JavaScript**
