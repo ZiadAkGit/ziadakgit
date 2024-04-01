@@ -12,7 +12,7 @@ I'm Ziad, a passionate QA & Automation engineer evolving into a versatile develo
 ## 🌟 Featured Projects
 
 ### 1. **Pawrtnership 🐾**
-   - Unleash the future of pet adoption! This website, powered by a cutting-edge AI algorithm, matches you with your perfect furry companion based on a fun quiz.
+   - Unleash the future of pet adoption! This website, powered by a cutting-edge AI algorithm, matches you with your perfect furry companion based on a fun quiz. [![Link](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://pawrtnership.com)
 
 ### 2. **Java Discord Bot 🤖**
    - Elevate your Discord experience with my assistant bot. It's not just a bot; it's a tech marvel! Utilizing Selenium, web scraping, and futuristic features.
@@ -28,4 +28,4 @@ As a fervent team player, I thrive on collaboration and open dialogues to drive 
 Would you be interested in a versatile problem-solver? Let's connect and craft something extraordinary together! I am excited to engage with like-minded individuals in this creative sector. Reach out now – the perfect time to connect is always now! 🔮
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://il.linkedin.com/in/ziadabukhadra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](http://www.ziadak.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://ziadak.com)
